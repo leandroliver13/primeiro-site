@@ -3,7 +3,7 @@
 
 ➡️ Meu nome é Leandro Oliveira
 
-📝 Sou professor de Pensamento Computacional, 
+📝 Sou professor de Pensamento Computacional
 
 💬 Logo, este diretório terá o propósito de salvar e de compartilhar meus projetos desenvolvidos por meio do estudo em html e css
 
